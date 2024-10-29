@@ -38,7 +38,7 @@ html {
 
 
 .hero {
-  background-image: url(https://picsum.photos/id/25/1920/1080);
+ 
   background: linear-gradient(rgba(252, 255, 239, 0.504), hsla(0, 0%, 100%, 0.095)), rgb(189, 206, 167) url("../image/g1.jpg") no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -76,7 +76,7 @@ html {
   box-shadow: 0 2px 15px rgb(255, 255, 255);
 }
 
-@media (max-width: 599px) {
+@media (max-width: 100px) {
   .hero .hero-foot {
     display: none;
   }
